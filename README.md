@@ -31,7 +31,8 @@ A React-based movie discovery application that allows users to search for movies
 ### 🏠 Home Page
 ![Home](assets/home.png)
 
-### 🔎 Search Results
+### 🔎 Search Results<img width="1897" height="889" alt="home" src="https://github.com/user-attachments/assets/5e77942e-e628-47e1-b93d-5417e9c58305" />
+
 ![Results](assets/results.png)
 
 ### 📄 Movie Details Modal
