@@ -1,3 +1,4 @@
+<img width="1867" height="903" alt="results" src="https://github.com/user-attachments/assets/221e7c00-315b-43ca-a3d4-f408d91d0bb9" />
 # 🎬 Movie Finder
 
 A React-based movie discovery application that allows users to search for movies and view detailed information using the OMDb API.
@@ -28,15 +29,11 @@ A React-based movie discovery application that allows users to search for movies
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
-![Home](assets/home.png)
-
 ### 🔎 Search Results<img width="1897" height="889" alt="home" src="https://github.com/user-attachments/assets/5e77942e-e628-47e1-b93d-5417e9c58305" />
 
-![Results](assets/results.png)
 
-### 📄 Movie Details Modal
-![Details](assets/modal.png)
+
+<img width="1867" height="903" alt="results" src="https://github.com/user-attachments/assets/e493d705-e76f-4dac-bfd4-3ee6a87bfd2d" />
 
 ---
 
