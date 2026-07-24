@@ -33,7 +33,10 @@ A React-based movie discovery application that allows users to search for movies
 
 
 
-<img width="1867" height="903" alt="results" src="https://github.com/user-attachments/assets/e493d705-e76f-4dac-bfd4-3ee6a87bfd2d" />
+### resulsts <img width="1867" height="903" alt="results" src="https://github.com/user-attachments/assets/e493d705-e76f-4dac-bfd4-3ee6a87bfd2d" />
+
+### Details About the movie<img width="1878" height="891" alt="modal" src="https://github.com/user-attachments/assets/505bab3c-d647-4f00-979d-787bcde7a943" />
+
 
 ---
 
